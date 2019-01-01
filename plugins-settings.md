@@ -60,10 +60,12 @@
 |Jindent-Source Code Formatter|自定义类、方法、doc、变量注释模板|<http://plugins.jetbrains.com/plugin/2170?pr=idea>|
 |Translation|翻译插件|<https://github.com/YiiGuxing/TranslationPlugin>|
 |Maven Helper|Maven 辅助插件|<https://plugins.jetbrains.com/plugin/7179-maven-helper>|
+|RestfulToolkit|方便查找 Spring MVC 的 RequestMapping|<https://plugins.jetbrains.com/plugin/10292-restfultoolkit>|
 |Properties to YAML Converter|把 Properties 的配置格式改为 YAML 格式|<https://plugins.jetbrains.com/plugin/8000-properties-to-yaml-converter>|
 |Git Flow Integration|Git Flow 的图形界面操作|<https://plugins.jetbrains.com/plugin/7315-git-flow-integration>|
 |Rainbow Brackets|对各个对称括号进行着色，方便查看|<https://github.com/izhangzhihao/intellij-rainbow-brackets>|
 |MybatisX|mybatis 框架辅助（免费）|<https://plugins.jetbrains.com/plugin/10119-mybatisx>|
+|MyBatis Log Plugin|Mybatis SQL 提取|<https://plugins.jetbrains.com/plugin/10065-mybatis-log-plugin>|
 |Lombok Plugin|Lombok 功能辅助插件|<https://plugins.jetbrains.com/plugin/6317-lombok-plugin>|
 |.ignore|各类版本控制忽略文件生成工具|<https://plugins.jetbrains.com/plugin/7495--ignore>|
 |mongo4idea|mongo客户端|<https://github.com/dboissier/mongo4idea>|
